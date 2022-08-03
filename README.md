@@ -1,5 +1,3 @@
-# MH11 Template
+# MH11 Smoke Template
 
-MH11's Website Template
-
-HTML & CSS
+MH11's Website Smoke Template (HTML & CSS)
