@@ -1,2 +1,2 @@
-# Smoke Web Template
+# Smoke Template
 Smoke Website Template (HTML & CSS).
